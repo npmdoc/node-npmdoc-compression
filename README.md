@@ -1,11 +1,13 @@
-# api documentation for  [compression (v1.6.2)](https://github.com/expressjs/compression#readme)  [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-compression.svg)](https://travis-ci.org/npmdoc/node-npmdoc-compression)
+# api documentation for  [compression (v1.6.2)](https://github.com/expressjs/compression#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-compression.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-compression) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-compression.svg)](https://travis-ci.org/npmdoc/node-npmdoc-compression)
 #### Node.js compression middleware
 
 [![NPM](https://nodei.co/npm/compression.png?downloads=true)](https://www.npmjs.com/package/compression)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-compression/build/screen-capture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-compression_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-compression/build..beta..travis-ci.org/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-compression/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-compression_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-compression/build..beta..travis-ci.org/apidoc.html)
 
-![package-listing](https://npmdoc.github.io/node-npmdoc-compression/build/screen-capture.npmPackageListing.svg)
+![npmPackageListing](https://npmdoc.github.io/node-npmdoc-compression/build/screenCapture.npmPackageListing.svg)
+
+![npmPackageDependencyTree](https://npmdoc.github.io/node-npmdoc-compression/build/screenCapture.npmPackageDependencyTree.svg)
 
 
 
